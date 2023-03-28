@@ -1,5 +1,5 @@
 {
-  "name": "@zkvault/lib",
+  "name": "@zk-vault/lib",
   "version": "0.0.1",
   "description": "Solidity libraries that are shared across ZKVault contracts",
   "files": [
